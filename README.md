@@ -13,6 +13,6 @@ Music Streaming App project.
 ### Group members:
 - Jom Thananont Chevaphatrakul
 - Perth Sirikarn Yodvanich
-- Perth Praewpun cheevamongkol
+- Praewpun Cheevamongkol
 - Tantai Layluxsiri
 
